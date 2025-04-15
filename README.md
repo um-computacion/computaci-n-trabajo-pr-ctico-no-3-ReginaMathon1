@@ -130,7 +130,7 @@ Para trabajar con este repositorio, es importante seguir estas pautas:
 
 4. **Milestones**
    - Milestone 1: Implementación de Tests
-     - Issue: "Agregar tests para ingreso de números válidos"
+     - Issue: "Agregar tests para ingreso de números válidosnu"
      - Issue: "Agregar tests para ingreso de números negativos"
      - Issue: "Agregar tests para ingreso de texto no numérico"
    
