@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JoGu4W9y)
 # Trabajo Práctico 3: Desarrollo Guiado por Pruebas (TDD) - Manejo de Excepciones
 
 ## Identificación del Alumno
@@ -129,7 +130,7 @@ Para trabajar con este repositorio, es importante seguir estas pautas:
 
 4. **Milestones**
    - Milestone 1: Implementación de Tests
-     - Issue: "Agregar tests para ingreso de números válidos"
+     - Issue: "Agregar tests para ingreso de números válidosnu"
      - Issue: "Agregar tests para ingreso de números negativos"
      - Issue: "Agregar tests para ingreso de texto no numérico"
    
